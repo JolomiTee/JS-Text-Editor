@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Serif Sinhala
+- Font Author: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sinhala)
+- Font Source: http://fonts.gstatic.com/s/notoserifsinhala/v18/DtVEJwinQqclnZE2CnsPug9lgGC3y2F2nehQ7Eg4EdBKWxPiDxMivFLgRXs_-pGxR1MsxaLRn3W-.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

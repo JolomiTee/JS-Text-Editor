@@ -77,7 +77,8 @@ input[type='color']::-webkit-color-swatch{
     padding: 20px;
     margin-top: 10px;
     border: 1px solid #dddddd;
-    height: fit-content;
+    height: 200px;
+    max-height: 400px;
     max-height: 600px !important;
     overflow-y: scroll;
 }
@@ -91,4 +92,30 @@ input[type='color']::-webkit-color-swatch{
     right: 30px;
     bottom: 10px;
     z-index: 1;
+}
+.submit{
+    margin-top: 30px;
+    background-color: rgb(146, 217, 255);
+    width: 70px;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+
+@media print{
+    .container{
+        top: -50px;
+        position: relative;
+        box-shadow: none;
+    }
+    h1, .options, .submit{
+        visibility: hidden;
+    }
+    #text-input{
+        margin-top: -100px;
+        height: max-content;
+        overflow: auto;
+        border: none;
+    }
+
 }

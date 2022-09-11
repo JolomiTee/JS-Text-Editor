@@ -78,7 +78,7 @@ input[type='color']::-webkit-color-swatch{
     margin-top: 10px;
     border: 1px solid #dddddd;
     height: fit-content;
-    max-height: 200px !important;
+    max-height: 600px !important;
     overflow-y: scroll;
 }
 .active{

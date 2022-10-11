@@ -7,6 +7,9 @@ Some of the Text Editor functions include:
 * Bold
 * Italics
 * Underline
+* Strike through
+* Redo/Undo
+* List formatting
 * Alignment Left
 * Center Text
 * Justify

@@ -1,4 +1,6 @@
-# A Simple, Multifunctional JavaScript Text Editor
+# A Simple, Multifunctional Text Editor
+Powered by JavaScript
+
 This is a simple functional text editor which simulates an actual text editor.
 ### Functions
 Some of the Text Editor functions include:
